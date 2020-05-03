@@ -2,7 +2,7 @@ minimum_cumulusci_version: '3.12.1'
 project:
     name: Food-Bank
     package:
-        name:  Food-Bank
+        name:  Food-Bank-Implementation
         namespace: cumulus_ci
         api_version: '48.0'
     source_format: sfdx
